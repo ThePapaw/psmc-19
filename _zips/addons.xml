@@ -580,9 +580,10 @@ Version 1.0.37
 	</extension>
 </addon>
 
-<addon id="skin.psmc.max" version="1.0.7" name="[COLOR crimson]•• [/COLOR]PSMC Max[COLOR crimson] ••[/COLOR]" provider-name="The Papaw">
+<addon id="skin.psmc.max" version="1.0.8" name="[COLOR crimson]•• [/COLOR]PSMC Max[COLOR crimson] ••[/COLOR]" provider-name="The Papaw">
 	<requires>
 		<import addon="script.skinshortcuts" version="0.6.5"/>
+		<import addon="script.max.helper" version="1.0.0"/>
 		<import addon="script.skin.helper.service" version="1.1.43"/>
         <import addon="script.skin.helper.widgets" version="1.0.45"/>
         <import addon="script.skin.helper.backgrounds" version="1.0.0"/>
