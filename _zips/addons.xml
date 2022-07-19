@@ -87,22 +87,6 @@
     </extension>
 </addon>
 
-<addon id="resource.images.studios.white" name="Studio Icons - White" version="0.0.30" provider-name="Team Kodi">
-	<extension point="kodi.resource.images" compile="true" type="studios" />
-	<requires>
-		<import addon="kodi.resource" version="1.0.0"/>
-	</requires>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">White Studio Icons</summary>
-		<description lang="en">White Studio Icons</description>
-		<platform>all</platform>
-		<license>CC-BY-SA-3.0</license>
-		<assets>
-			<icon>icon.png</icon>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="resource.uisounds.psmc.max" version="1.0.4" name="PSMC Max Sounds" provider-name="The Papaw">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
@@ -123,6 +107,27 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>[COLOR FFFFFF00]Designed to compliment the PSMC Max Skin[/COLOR][COLOR FF00D5FF][CR]- Initial release[/COLOR]</news>
+  </extension>
+</addon>
+
+<addon id="script.module.musicbrainz"
+       name="Musicbrainz NGS webservice python bindings"
+       version="0.7.0"
+       provider-name="marcelveldt and others">
+  <requires>
+	<import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python bindings for Musicbrainz' NGS webservice</summary>
+    <description>Kodi module library for the Python bindings for Musicbrainz' NGS webservice developed by alastair.</description>
+		<assets>
+            <icon>icon.png</icon>
+        </assets>
+    <license>GNU GENERAL PUBLIC LICENSE V3</license>
+    <source>https://github.com/kodi-community-addons/script.module.musicbrainz</source>
+    <platform>all</platform>
   </extension>
 </addon>
 
