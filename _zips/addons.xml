@@ -109,4 +109,71 @@
 		<news>[COLOR FFFFFF00]Designed to compliment the PSMC Max Skin[/COLOR][COLOR FF00D5FF][CR]- Initial release[/COLOR]</news>
   </extension>
 </addon>
+
+<addon id="script.skin.info.service" name="Skin Info Service" version="1.1.2" provider-name="phil65, SiLVO">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+	</requires>
+	<extension point="xbmc.python.library"          library="default.py" />
+	<extension point="xbmc.python.script"           library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Script used by skins to show extended media info.</summary>
+		<description lang="en_GB">This script fetches extended information for several media types (artists, albums, movie sets etc.). Needs skin support.</description>
+		<platform>all</platform>
+		<license>GPL-2.0-only</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=210069</forum>
+		<source>https://github.com/mikesilvo164/script.skin.info.service</source>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+		<news>Python 3 compatibility[CR]Add Album discart for Artists[CR]Add set details support for Home Window</news>
+	</extension>
+</addon>
+
+<addon id="skin.psmc.max" version="1.0.6" name="[COLOR crimson]•• [/COLOR]PSMC Max[COLOR crimson] ••[/COLOR]" provider-name="The Papaw">
+	<requires>
+		<import addon="script.skinshortcuts" version="0.6.5"/>
+		<import addon="script.skin.helper.service" version="1.0.0"/>
+        <import addon="script.skin.helper.widgets" version="1.0.0"/>
+        <import addon="script.skin.helper.backgrounds" version="1.0.0"/>
+        <import addon="resource.images.skinbackgrounds.titanium" version="1.0.0"/>
+        <import addon="resource.images.skinicons.wide" version="1.0.0"/>
+        <import addon="resource.images.backgroundoverlays.basic" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+		<res width="1920" height="1200" aspect="16:10" default="false" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">PSMC Max... A new skin for PSMC or Kodi.</summary>
+		<description>Designed for PSMC or Kodi. Many design layouts to choose from including the PSMC Max layout! This skin was forked from the Bingie Mod. Please give credit to all those involved in making that mod!</description>
+		<platform>all</platform>
+		<license>CC BY-NC-SA 4.0</license>
+		<forum></forum>
+		<website>https://github.com/ThePapaw/psmc</website>
+		<source>https://github.com/ThePapaw/psmc</source>
+		<email></email>
+		<assets>
+			<icon>resources/icon.gif</icon>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot000.jpg</screenshot>
+			<screenshot>resources/screenshot001.jpg</screenshot>
+			<screenshot>resources/screenshot002.jpg</screenshot>
+			<screenshot>resources/screenshot003.jpg</screenshot>
+			<screenshot>resources/screenshot004.jpg</screenshot>
+			<screenshot>resources/screenshot005.jpg</screenshot>
+			<screenshot>resources/screenshot006.jpg</screenshot>
+			<screenshot>resources/screenshot007.jpg</screenshot>
+			<screenshot>resources/screenshot008.jpg</screenshot>
+			<screenshot>resources/screenshot009.jpg</screenshot>
+            <screenshot>resources/screenshot010.jpg</screenshot>
+		</assets>
+		<news>
+			[B]PSMC Max[/B][CR]Designed for PSMC (or Kodi). For updates visit:[CR]https://github.com/ThePapaw/psmc
+		</news>
+	</extension>
+</addon>
 </addons>
