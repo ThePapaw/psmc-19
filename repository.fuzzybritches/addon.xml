@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="repository.fuzzybritches" name="Fuzzy Britches Repository" version="1.0.32" provider-name="The Papaw">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Fuzzy Britches">
+            <info compressed="false">https://raw.githubusercontent.com/thepapaw/fuzzybritches/master/_zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/thepapaw/fuzzybritches/master/_zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/thepapaw/fuzzybritches/master/_zips/</datadir>
+            <hashes>false</hashes>
+		<dir></dir>			
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>The Official Fuzzy Britches Repository.</summary>
+            <description>This is the  "Official" repository for the Fuzzy Britches and other PSMC addons</description>
+            <platform>all</platform>
+            <genre>movies,usa</genre>
+			<license>CC BY-NC-SA 4.0</license>
+			<forum></forum>
+			<website>https://github.com/ThePapaw/fuzzybritches</website>
+			<source>https://github.com/ThePapaw/fuzzybritches</source>
+			<video_guide></video_guide>
+		<assets>
+			<icon>icon.gif</icon>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+        </extension>
+    </addon>
