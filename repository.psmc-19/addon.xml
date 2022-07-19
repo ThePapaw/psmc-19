@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.0.0" provider-name="The Papaw">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="PSMC-19 Repository">
+        <info compressed="false">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>The Official Repo for the PSMC-19 (Papaw's Son Media Center v19), a Kodi Fork</summary>
+        <description>This is the repository for the "Official" PSMC-19 (Papaw's Son Media Center v19). A Kodi fork.</description>
+        <platform>all</platform>
+        <genre>movies,usa</genre>
+    </extension>
+</addon>
