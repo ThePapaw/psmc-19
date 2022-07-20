@@ -2719,10 +2719,6 @@
             <param name="addon" value="script.trakt" />
         </include>
         <include content="SkinSettings_AddonButton">
-            <param name="id" value="31005" />
-            <param name="addon" value="script.tv.show.next.aired" />
-        </include>
-        <include content="SkinSettings_AddonButton">
             <param name="id" value="31016" />
             <param name="addon" value="plugin.video.emby" />
         </include>
