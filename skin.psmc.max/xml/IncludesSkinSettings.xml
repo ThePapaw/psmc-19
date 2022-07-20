@@ -2708,7 +2708,7 @@
         </include>
         <include content="SkinSettings_AddonButton">
             <param name="id" value="31300" />
-            <param name="addon" value="script.artwork.beef" />
+            <param name="addon" value="script.artwork.dump" />
         </include>
         <include content="SkinSettings_AddonButton">
             <param name="id" value="31003" />
