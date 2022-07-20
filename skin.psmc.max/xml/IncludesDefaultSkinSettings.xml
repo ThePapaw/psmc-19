@@ -20,7 +20,7 @@
         <onload>Skin.SetBool(AutoCloseVideoOSD)</onload>
         <onload>Skin.Reset(OSDShowInfoOnPause)</onload>
         <!-- Finish & Update Skin Version -->
-        <onload>Skin.SetString(SkinVersion,1.1.3)</onload>
+        <onload>Skin.SetString(SkinVersion,1.1.4)</onload>
     </include>
 
     <include name="startupskinsettingsvalues">

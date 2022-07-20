@@ -331,11 +331,11 @@ msgid "Blockbuster Movies"
 msgstr ""
 
 msgctxt "#31079"
-msgid "Binge-worthy TV Shows"
+msgid "What's new in your TV Shows"
 msgstr ""
 
 msgctxt "#31080"
-msgid "New Releases in Movies"
+msgid "What's new in your Movies"
 msgstr ""
 
 msgctxt "#31081"
