@@ -12,10 +12,9 @@ To Install PSMC-19:
 2. Install as you would any other apk file.
 
 To Install this Repository:
-1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/blob/master/_zips/repository.psmc-19/repository.psmc-1.0.4.zip?raw=true"><B>CLICK HERE</B></a>
+1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/raw/master/_zips/repository.psmc-19/repository.psmc-19-1.0.4.zip"><B>CLICK HERE</B></a>
 
 2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
-
 3. After the repo is installed, install the addon(s) of your choosing. You can also install the <B>Fuzzy Britches</B> repo from this repo for more "media" type addons.
 
 
@@ -29,7 +28,7 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC-19. They will work with Kodi 19 and other Kodi forks.
 
-• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. <BR>
+• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. <BR><BR>
 
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
