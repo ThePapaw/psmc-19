@@ -12,10 +12,11 @@ To Install PSMC-19:
 2. Install as you would any other apk file.
 
 
-The ADDONS hosted here were created, forked or modded and/or themed for using with PSMC. They also work fine with Kodi 19 unless otherwise stated. They include:
+The ADDONS hosted here were created, forked or modded and/or themed for using with PSMC-19. They also work fine with Kodi 19 unless otherwise stated. They include:
 
-• <B>PSMC Maintenance Tools</B> (Maintenance Program)<BR>
+• <B>PSMC Maintenance</B> (Maintenance Program)<BR>
 Features include: Auto delete of cache at start up (optional), notifies when packages and thumbs reach a set amount of wasted storage space (you can set and change sizes), cuts down on your devices read/writes on the ROM. Also has many Backup/Restore Options, Speed test, IP check and other features. Again, please give credit to their respective developers.
+
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC-19. They will work with Kodi 19 and other Kodi forks.
 
