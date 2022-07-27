@@ -11,6 +11,13 @@ To Install PSMC-19:
 <a href="https://bit.ly/3zbbTK2">• <B>64bit version-arm64-v8a</B></a>  (devices running Android TV OS, like the Nvidea Shield)
 2. Install as you would any other apk file.
 
+To Install this Repository:
+1. Download the repository. <a href="https://github.com/ThePapaw/psmc/blob/master/_zips/repository.psmc-19/repository.psmc-1.0.4.zip?raw=true"><B>CLICK HERE</B></a>
+
+2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
+
+3. After the repo is installed, install the addon(s) of your choosing. You can also install the <B>Fuzzy Britches</B> repo from this repo for more "media" type addons.
+
 
 The ADDONS hosted here were created, forked or modded and/or themed for using with PSMC-19. They also work fine with Kodi 19 unless otherwise stated. They include:
 
@@ -22,19 +29,11 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC-19. They will work with Kodi 19 and other Kodi forks.
 
-• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Works with v18 & v19. (must add dependancies manually for v18). GUI sounds available. <BR>
+• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. <BR>
 
-PSMC, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
+PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
-
-  
-To Install this Repository:
-1. Download the repository. <a href="https://github.com/ThePapaw/psmc/blob/master/_zips/repository.psmc-19/repository.psmc-1.0.4.zip?raw=true"><B>CLICK HERE</B></a>
-
-2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
-
-3. After the repo is installed, install the addon(s) of your choosing. You can also install the <B>Fuzzy Britches</B> repo from this repo for more "media" type addons.
 
 
 Thanks & enjoy!<BR>
