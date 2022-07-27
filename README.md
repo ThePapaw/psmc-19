@@ -14,9 +14,11 @@ To Install PSMC-19:
 
 The ADDONS hosted here were created, forked or modded and/or themed for using with PSMC-19. They also work fine with Kodi 19 unless otherwise stated. They include:
 
-• <B>PSMC Maintenance</B> (Maintenance Program)<BR>
+• <B>PSMC Maintenance</B> (Maintenance Addon)<BR>
 Features include: Auto delete of cache at start up (optional), notifies when packages and thumbs reach a set amount of wasted storage space (you can set and change sizes), cuts down on your devices read/writes on the ROM. Also has many Backup/Restore Options, Speed test, IP check and other features. Again, please give credit to their respective developers.
 
+• <B>Fuzzy Britches v3</B> (Video Addon)<BR>
+Features include: Works well with premium and non-premium video hosting sites, includes options for local library and downloads. For best results, use with a premium service like ReadlDebrid<BR><BR>
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC-19. They will work with Kodi 19 and other Kodi forks.
 
