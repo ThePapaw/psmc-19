@@ -17,8 +17,8 @@ To Install this Repository:
 2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
 3. After the repo is installed, install the addon(s) of your choosing. You can also install the <B>Fuzzy Britches</B> repo from this repo for more "media" type addons.
 
-(If you are still using PSMC-18 or Kodi 18, you need these repo's" https://github.com/ThePapaw/psmc)
-
+(If you are still using PSMC-18 or Kodi 18, you need these repo's:<BR> https://github.com/ThePapaw/psmc)<BR> 
+https://github.com/ThePapaw/fuzzybritches<BR> 
 
 
 The ADDONS hosted here were created, forked or modded and/or themed for using with PSMC-19. They also work fine with Kodi 19 unless otherwise stated. They include:
