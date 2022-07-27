@@ -12,7 +12,7 @@ To Install PSMC-19:
 2. Install as you would any other apk file.
 
 To Install this Repository:
-1. Download the repository. <a href="https://github.com/ThePapaw/psmc/blob/master/_zips/repository.psmc-19/repository.psmc-1.0.4.zip?raw=true"><B>CLICK HERE</B></a>
+1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/blob/master/_zips/repository.psmc-19/repository.psmc-1.0.4.zip?raw=true"><B>CLICK HERE</B></a>
 
 2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
 
