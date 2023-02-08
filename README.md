@@ -33,6 +33,8 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. <BR><BR>
 
+• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. GUI sounds available. <BR><BR>
+
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
