@@ -3,9 +3,9 @@
 This repository is primarily for the development of PSMC-19 (Papaw's Son Media Center), a fork of XBMC/Kodi Media Center. All items hosted or linked here are for learning and educational purposes only. They include:
 
 • <B>PSMC v19.4</B> - psmc-19.4-Matrix-arm64-v8a (64bit for devices like Nvidea Shield) <BR>
-• <B>PSMC v19.4</B> - psmc-19.4-Matrix-armeabi-v7a (32bit version for most android devices)
+• <B>PSMC v19.4</B> - psmc-19.4-Matrix-armeabi-v7a (32bit version for most android devices) <BR>
 • <B>PSMC v19.5</B> - psmc-19.5-Matrix-arm64-v8a (64bit for devices like Nvidea Shield) <BR>
-• <B>PSMC v19.5</B> - psmc-19.5-Matrix-armeabi-v7a (32bit version for most android devices)
+• <B>PSMC v19.5</B> - psmc-19.5-Matrix-armeabi-v7a (32bit version for most android devices) <BR>
 • <B>PSMC v20.0</B> - psmc-20.0-Matrix-arm64-v8a (64bit for devices like Nvidea Shield) <BR>
 • <B>PSMC v20.0</B> - psmc-20.0-Matrix-armeabi-v7a (32bit version for most android devices)
 
