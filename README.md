@@ -12,11 +12,11 @@ This repository is primarily for the development of PSMC-19 (Papaw's Son Media C
 To Install PSMC-19/20 (v20 still has issues):
 1. Download the appropriate apk file for your device:<br>
 <a href="https://bit.ly/3J49rJU">• <B>PSMC v19.4 - 32bit Version-armeabi-v7a</B></a> (for most android devices)<br>
-<a href="https://bit.ly/3zbbTK2">• <B>PSMC v19.4 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS, like the Nvidea Shield)<br>
+<a href="https://bit.ly/3zbbTK2">• <B>PSMC v19.4 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS, like Nvidea Shield or devices using the Rockchip 3588 chipset)<br>
 <a href="https://bit.ly/41GmWbu">• <B>PSMC v19.5 - 32bit Version-armeabi-v7a</B></a> (for most android devices)<br>
-<a href="https://bit.ly/3ZzF0T2">• <B>PSMC v19.5 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS, like the Nvidea Shield)<br>
+<a href="https://bit.ly/3ZzF0T2">• <B>PSMC v19.5 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS,  Nvidea Shield or devices using the Rockchip 3588 chipset)<br>
 <a href="https://bit.ly/3IK09TD">• <B>PSMC v20.0 - 32bit Version-armeabi-v7a</B></a> (for most android devices)<br>
-<a href="https://bit.ly/3Zcg5VV">• <B>PSMC v20.0 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS, like the Nvidea Shield)<br>
+<a href="https://bit.ly/3Zcg5VV">• <B>PSMC v20.0 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS,  Nvidea Shield or devices using the Rockchip 3588 chipset)<br>
 2. Install as you would any other apk file.
 
 To Install this Repository:
