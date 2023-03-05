@@ -251,6 +251,28 @@
   </extension>
 </addon>
 
+<addon id="resource.uisounds.psmc-mario" version="1.1.19" name="PSMC's Super Mario Galaxy GUI Sounds" provider-name="The Papaw">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">GUI Sounds for the PSMC's Super Mario Galaxy skin.</summary>
+	<description lang="en">These GUI Sounds were created for use with the PSMC's Super Mario Galaxy skin provided by The Papaw.</description>
+    <platform>all</platform>
+	<license>CC BY-NC-SA 4.0</license>
+		<forum></forum>
+		<website>https://github.com/ThePapaw/psmc-19</website>
+		<source>https://github.com/ThePapaw/psmc-19</source>
+		<video_guide></video_guide>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>Created for the PSMC's Super Mario Galaxy skin provided by The Papaw.</news>
+  </extension>
+</addon>
+
 <addon id="resource.uisounds.psmc.max" version="1.0.5" name="PSMC Max Sounds" provider-name="The Papaw">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
