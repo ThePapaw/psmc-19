@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="resource.uisounds.psmc-manofsteel" version="1.1.19" name="PSMC's Man of Steel GUI Sounds" provider-name="The Papaw">
+<addon id="resource.uisounds.psmc-manofsteel" version="1.2.19" name="PSMC's Man of Steel GUI Sounds" provider-name="The Papaw">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
@@ -10,8 +10,8 @@
     <platform>all</platform>
 	<license>CC BY-NC-SA 4.0</license>
 		<forum></forum>
-		<website>https://github.com/ThePapaw/psmc</website>
-		<source>https://github.com/ThePapaw/psmc</source>
+		<website>https://github.com/ThePapaw/psmc-19</website>
+		<source>https://github.com/ThePapaw/psmc-19</source>
 		<video_guide></video_guide>
 		<assets>
 			<icon>icon.png</icon>

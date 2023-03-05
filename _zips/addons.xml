@@ -229,7 +229,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.uisounds.psmc-manofsteel" version="1.1.19" name="PSMC's Man of Steel GUI Sounds" provider-name="The Papaw">
+<addon id="resource.uisounds.psmc-manofsteel" version="1.2.19" name="PSMC's Man of Steel GUI Sounds" provider-name="The Papaw">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
@@ -240,8 +240,8 @@
     <platform>all</platform>
 	<license>CC BY-NC-SA 4.0</license>
 		<forum></forum>
-		<website>https://github.com/ThePapaw/psmc</website>
-		<source>https://github.com/ThePapaw/psmc</source>
+		<website>https://github.com/ThePapaw/psmc-19</website>
+		<source>https://github.com/ThePapaw/psmc-19</source>
 		<video_guide></video_guide>
 		<assets>
 			<icon>icon.png</icon>
@@ -858,10 +858,11 @@ Version 1.0.37
 	</extension>
 </addon>
 
-<addon id="skin.psmc.man.of.steel" version="1.1.19" name="PSMC's Man of Steel Skin" provider-name="The Papaw">
+<addon id="skin.psmc.man.of.steel" version="1.2.19" name="PSMC's Man of Steel Skin" provider-name="The Papaw">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.17" />
+		<import addon="resource.uisounds.psmc-manofsteel" version="1.0.0" />
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
@@ -872,8 +873,8 @@ Version 1.0.37
 		<platform>all</platform>
 		<license>CC BY-NC-SA 4.0</license>
 		<forum></forum>
-		<website>https://github.com/ThePapaw/psmc</website>
-		<source>https://github.com/ThePapaw/psmc</source>
+		<website>https://github.com/ThePapaw/psmc-19</website>
+		<source>https://github.com/ThePapaw/psmc-19</source>
 		<video_guide></video_guide>
 		<assets>
 			<icon>icon.png</icon>
