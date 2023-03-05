@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.psmc.man.of.steel" version="1.2.19" name="PSMC's Man of Steel Skin" provider-name="The Papaw">
+<addon id="skin.psmc.man.of.steel" version="1.3.19" name="PSMC's Man of Steel Skin" provider-name="The Papaw">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.17" />
-		<import addon="resource.uisounds.psmc-manofsteel" version="1.0.0" />
+		<import addon="resource.uisounds.psmc-manofsteel" version="1.2.19" />
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
