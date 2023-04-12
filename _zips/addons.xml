@@ -138,13 +138,15 @@
 
 <addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.0.9" provider-name="The Papaw">
     <requires>
-        <import addon="xbmc.addon" version="15.5.0"/>
+        <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="PSMC Repository">
-        <info compressed="false">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/</datadir>
-        <hashes>false</hashes>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/thepapaw/psmc-19/master/_zips/</datadir>
+			<hashes>false</hashes>
+		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>The Official Repo for PSMC-19 (Papaw's Son Media Center)</summary>
