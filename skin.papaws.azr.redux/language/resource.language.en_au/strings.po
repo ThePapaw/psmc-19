@@ -554,7 +554,7 @@ msgid "All colors are reset to their default values"
 msgstr ""
 
 msgctxt "#31137"
-msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]Arctic focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
+msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]AZR Redux focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
 msgstr ""
 
 msgctxt "#31138"
@@ -2606,8 +2606,8 @@ msgstr ""
 #~ msgstr "Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey."
 
 #~ msgctxt "Addon Description"
-#~ msgid "Papaws AZR Redux is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin."
-#~ msgstr "Papaws AZR Redux is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin."
+#~ msgid "Papaws AZR Redux is based on original Arctic: Zephyr skin, created by jurialmunkey. AZR Redux focuses on being simple, clean and minimalistic with a light spin."
+#~ msgstr "Papaws AZR Redux is based on original Arctic: Zephyr skin, created by jurialmunkey. AZR Redux focuses on being simple, clean and minimalistic with a light spin."
 
 #~ msgctxt "#31179"
 #~ msgid "Show clearlogo"

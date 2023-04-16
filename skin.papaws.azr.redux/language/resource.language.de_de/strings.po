@@ -554,7 +554,7 @@ msgid "All colors are reset to their default values"
 msgstr "Alle Farben werden auf die Standardwerte zurückgesetzt"
 
 msgctxt "#31137"
-msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]Arctic focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
+msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]AZR Redux focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
 msgstr "[CR]Papaws AZR Redux basiert auf der dritten Iteration des Arctic-Skins, kreiert von jurialmunkey. [CR]Arctic fokussiert sich darauf, simpel, clean und minimalistisch zu sein, mit etwas Pepp.[CR]Falls es Rückmeldung zu diesem Skin gibt, kann diese gerne hier hinterlassen werden[CR][CR]https://github.com/ThePapaw/psmc-19"
 
 msgctxt "#31138"
