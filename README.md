@@ -20,7 +20,7 @@ To Install PSMC-19/20 (v20 still has issues):
 2. Install as you would any other apk file.
 
 To Install this Repository:
-1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/raw/master/_zips/repository.psmc-19/repository.psmc-19-1.1.9.zip"><B>CLICK HERE</B></a>
+1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/raw/master/_zips/repository.psmc-19/repository.psmc-19-1.2.0.zip"><B>CLICK HERE</B></a>
 
 2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
 3. After the repo is installed, install the addon(s) of your choosing. You can also install the <B>Fuzzy Britches</B> repo from this repo for more "media" type addons.
