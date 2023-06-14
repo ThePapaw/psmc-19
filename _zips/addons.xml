@@ -232,7 +232,7 @@
 	</extension>
 </addon>
 
-<addon id="resource.uisounds.psmc" version="1.0.2" name="PSMC GUI Sounds" provider-name="The Papaw">
+<addon id="resource.uisounds.psmc" version="1.0.3" name="PSMC GUI Sounds" provider-name="The Papaw">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
