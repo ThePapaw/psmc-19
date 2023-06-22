@@ -4,9 +4,7 @@ This repository is primarily for the development of PSMC and the PSMC-19 Reposit
 
 To Install PSMC on a Windows PC (64bit only):
 1. Download and extract using 7-Zip and run the exe, follow the prompts:<br>
-<a href="bit.ly/3NJ6SB6">• <B>PSMC-v20.1.7z (stable)</B></a><br>
-<br>
-<a href="bit.ly/46kqfHE">• <B>PSMC v21.0.2.7z (Release Candidate 2)</B></a><br>
+<a href="bit.ly/3NJ6SB6">• <B>PSMC-v20.1.7z (stable)</B></a><br><a href="bit.ly/46kqfHE">• <B>PSMC v21.0.2.7z (Release Candidate 2)</B></a><br>
 
 <B>Android</B> <BR>
 • <B>PSMC v19.4</B> - psmc-19.4-Matrix-arm64-v8a (64bit for devices like Nvidea Shield) <BR>
