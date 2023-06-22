@@ -42,9 +42,9 @@ Features include: Auto delete of cache at start up (optional), notifies when pac
 • <B>Fuzzy Britches v3</B> (Video Addon)<BR>
 Features include: Works well with premium and non-premium video hosting sites, includes options for local library and downloads. For best results, use with a premium service like ReadlDebrid<BR><BR>
 
-• <B>PSMC SKINS</B> have been themed and or modded for use with PSMC. They will work with Kodi or any other Kodi forks.
+• <B>PSMC SKINS</B> have been themed and or modded for use with PSMC. They will also work with Kodi or any other Kodi forks.
 
-• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Watch Video: <BR><BR>
+• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon (windows only) to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Youtube Video: <BR><BR>
 
 • <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (NO LONGER SUPPORTED)<BR><BR>
 
