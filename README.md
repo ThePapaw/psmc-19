@@ -52,7 +52,7 @@ PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
 
-If yo have found this work helpful, let me know! PLEASE consider buying me a cup of coffee, I would really appreciate it (via PayPal donation:  https://bit.ly/3MO7PYp).
+If you have found any of my efforts useful, PLEASE consider buying me a cup of coffee, I would really appreciate it (via PayPal donation:  https://bit.ly/3MO7PYp).
 
 -Enjoy!<BR>
 	The Papaw
