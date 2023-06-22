@@ -42,11 +42,13 @@ Features include: Auto delete of cache at start up (optional), notifies when pac
 • <B>Fuzzy Britches v3</B> (Video Addon)<BR>
 Features include: Works well with premium and non-premium video hosting sites, includes options for local library and downloads. For best results, use with a premium service like ReadlDebrid<BR><BR>
 
-• <B>PSMC SKINS</B> have been themed and or modded for use with PSMC-19. They will work with Kodi 19 and other Kodi forks.
+• <B>PSMC SKINS</B> have been themed and or modded for use with PSMC. They will work with Kodi or any other Kodi forks.
 
-• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. <BR><BR>
+• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. <BR>Also have done a matching theme available for the LaunchBox/BigBox gaming frontend, an addon to connect the two fo them , making a total All-In-One Media/Gaming Setup.<BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Video:</B>  <BR><BR>
 
-• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. (no longer supported) <BR><BR>
+• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (NO LONGER SUPPORTED)<BR><BR>
+
+• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. (NO LONGER SUPPORTED) <BR><BR>
 
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
