@@ -24,7 +24,7 @@ To Install PSMC-19/20:
 <a href="https://bit.ly/3Zcg5VV">• <B>PSMC v20.0 - 64bit version-arm64-v8a</B></a>  (devices running Android TV OS,  Nvidea Shield or devices using the Rockchip 3588 chipset)<br>
 2. Install as you would any other apk file.
 
-To Install this Repository:
+To Install only the PSMC-19 Repository:
 1. Download the repository. <a href="https://github.com/ThePapaw/psmc-19/raw/master/_zips/repository.psmc-19/repository.psmc-19-1.2.0.zip"><B>CLICK HERE</B></a>
 
 2. Install "from zip file" in PSMC-19 (or Kodi) as you would any other downloaded add-on.
@@ -52,6 +52,7 @@ PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
 
+If yo have found this work helpful, let me know! PLEASE consider buying me a cup of coffee, I would really appreciate it (via PayPal donation:  https://bit.ly/3MO7PYp).
 
-Thanks & enjoy!<BR>
+-Enjoy!<BR>
 	The Papaw
