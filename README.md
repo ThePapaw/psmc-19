@@ -2,8 +2,8 @@
  
 This repository is primarily for the development of PSMC and the PSMC-19 Repository (Papaw's Son Media Center), a fork of XBMC/Kodi Media Center. All items hosted or linked here are for learning and educational purposes only. Both Windows and Android version will already contain the PSMC-19 repo after installing. They include:
 
-To Install PSMC on a Windows PC (x64bit only):
-1. Download the PSMC.7z file and extract using 7-Zip and run the exe, follow the prompts:<br>
+To Install PSMC on a Windows PC (64bit only):
+1. Download and extract using 7-Zip and run the exe, follow the prompts:<br>
 <a href="https://bit.ly/3Xi36lk">• <B>PSMC-v21.0.2 (x64).7z</B></a><br>
 
 <B>Android</B> <BR>
