@@ -44,7 +44,7 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC. They will work with Kodi or any other Kodi forks.
 
-• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. <BR>Also have done a matching theme available for the LaunchBox/BigBox gaming frontend, an addon to connect the two fo them , making a total All-In-One Media/Gaming Setup.<BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Video:</B>  <BR><BR>
+• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Watch Video: <BR><BR>
 
 • <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (NO LONGER SUPPORTED)<BR><BR>
 
