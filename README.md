@@ -46,7 +46,7 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon (windows only) to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Youtube Video: <BR><BR>
 
-• <B>Various Kids Themes</B> - Super Mario Galaxy<a href="https://www.youtube.com/watch?v=O5NCbWpsneA"> • <B>Super Mario Galaxy • </a>, Scooby-Doo, Toy Story, Spiderman, Batman, Man of Steel (Superman). GUI sounds available for most of them.<BR><BR>
+• <B>Various Kids Themes</B> - <a href="https://www.youtube.com/watch?v=O5NCbWpsneA"> • <B>Super Mario Galaxy</a>, <a href="https://www.youtube.com/watch?v=YC774BTbryw"> • <B>Scooby-Doo</a>,Scooby-Doo, Toy Story, Spiderman, Batman, Man of Steel (Superman). GUI sounds available for most of them.<BR><BR>
 
 • <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (REMOVED)<BR><BR>
 
