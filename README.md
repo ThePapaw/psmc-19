@@ -46,9 +46,11 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon (windows only) to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Youtube Video: <BR><BR>
 
-• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (NO LONGER SUPPORTED)<BR><BR>
+• <B>Various Kids Themes</B> - Super Mario Galaxy, Scooby-Doo, Toy Story, Spiderman, Batman, Man of Steel (Superman). GUI sounds available for most of them. (REMOVED)<BR><BR>
 
-• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. (NO LONGER SUPPORTED) <BR><BR>
+• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (REMOVED)<BR><BR>
+
+• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. (REMOVED) <BR><BR>
 
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
