@@ -44,7 +44,7 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>PSMC SKINS</B> have been themed and or modded for use with PSMC. They will also work with Kodi or any other Kodi forks.
 
-• <B>Papaws AZR Redux Skin</B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon (windows only) to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><BR><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">• <B>Youtube Video: <BR><BR>
+• <B><a href="https://www.youtube.com/watch?v=QmdxeFvVFPM">Papaws AZR Redux Skin</a></B> - Modern skin, Netflix looking style. Extremely configurable. Forked from the Arctic: Zephyr skin. GUI sounds available. I've also done a matching theme for the LaunchBox/BigBox gaming frontend, as well as an addon (windows only) to seamlessly connect the two of them , making PSMC & PSGC a total "All-In-One Media/Gaming Setup".<BR><BR>
 
 • <B>Various Kids Themes</B> - <a href="https://www.youtube.com/watch?v=O5NCbWpsneA"> • <B>Super Mario Galaxy</a> <a href="https://www.youtube.com/watch?v=YC774BTbryw"> • <B>Scooby-Doo</a> <a href="https://www.youtube.com/watch?v=pZ8eMnAhwwQ"> • <B>Toy Story</a> <a href="https://www.youtube.com/watch?v=vVk0X8piOGg"> • <B>Spiderman</a> <a href="https://www.youtube.com/watch?v=VloeaUhlwTA"> • <B>Batman</a> <a href="https://www.youtube.com/watch?v=eStbEWaDpSQ"> • <B>Man of Steel (Superman)</a>. GUI sounds available for most of them.<BR><BR>
 
