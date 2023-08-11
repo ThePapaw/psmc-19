@@ -48,11 +48,10 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 • <B>Various Kids Themes</B> • <a href="https://www.youtube.com/watch?v=O5NCbWpsneA"><B>Super Mario Galaxy</a> • <a href="https://www.youtube.com/watch?v=YC774BTbryw"><B>Scooby-Doo</a> • <a href="https://www.youtube.com/watch?v=pZ8eMnAhwwQ"><B>Toy Story</a> • <a href="https://www.youtube.com/watch?v=vVk0X8piOGg"><B>Spiderman</a> • <a href="https://www.youtube.com/watch?v=VloeaUhlwTA"><B>Batman</a> • <a href="https://www.youtube.com/watch?v=eStbEWaDpSQ"><B>Man of Steel (Superman)</a>. GUI sounds available for most of them.<BR><BR>
 
-• <B>PSMC Smoke</B> - Modern skin, extremely configurable. Many options and views to choose from including a Neflix type look. GUI sounds available. (REMOVED)<BR><BR>
-
-• <B>PSMC Max Skin</B> - Modern skin, extremely configurable. Many options to choose from including a Neflix type look. Forked from the Bingie mod. GUI sounds available. (REMOVED) <BR><BR>
-
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
+
+• <B>REMOVED ITEMS<BR>• <B>PSMC Smoke Skin</B><BR>
+• <B>PSMC Max Skin</B><BR><BR>
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
 
