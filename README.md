@@ -50,8 +50,7 @@ Features include: Works well with premium and non-premium video hosting sites, i
 
 PSMC-19, the Addons and Skins hosted here are considered 3rd party, so please do not seek help from Kodi, the Kodi forums, etc..
 
-<B><U>REMOVED ITEMS:</U></B><BR>• PSMC Smoke Skin<BR>
-• <B>PSMC Max Skin</B><BR><BR>
+<B><U>REMOVED ITEMS:</U></B> <BR>• GoTV<BR>• PSMC Smoke Skin<BR>• PSMC Max Skin<BR><BR><BR>
 
 If you have issues, please post them here. All items are still being developed and should only be used for testing purposes.
 
