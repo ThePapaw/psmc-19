@@ -393,7 +393,7 @@ def addTorrent(torrent):
 
 def transferList(page='1'):
     clearAll = '%s?action=%s' % (sysaddon, 'rdDeleteAll')
-    item = control.item(label='- ••• Delete All Downloads ••• -')
+    item = control.item(label='[B][COLOR firebrick]|••• > Delete Last Added Item < •••|[/COLOR][/B]')
     control.addItem(handle=syshandle, url=clearAll, listitem=item, isFolder=False)
 
     r = []
