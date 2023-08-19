@@ -566,8 +566,8 @@ msgid "Play trailer in windowed mode"
 msgstr "Reproducir tráiler en modo ventana"
 
 msgctxt "#31140"
-msgid "Kodi logo"
-msgstr "Logo Kodi"
+msgid "Show PSMC Logo"
+msgstr "Logo PSMC"
 
 msgctxt "#31141"
 msgid "Youtube"

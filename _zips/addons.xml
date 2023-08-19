@@ -980,7 +980,7 @@ Version 1.0.37
 	</extension>
 </addon>
 
-<addon id="skin.papaws.azr.redux" version="1.2.2" name="Papaws AZR Redux" provider-name="The Papaw">
+<addon id="skin.papaws.azr.redux" version="1.2.3" name="Papaws AZR Redux" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skinshortcuts" version="0.4.0"/>

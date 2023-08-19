@@ -566,8 +566,8 @@ msgid "Play trailer in windowed mode"
 msgstr "Filmelőzetes lejátszás ablakban"
 
 msgctxt "#31140"
-msgid "Kodi logo"
-msgstr "Kodi logó"
+msgid "Show PSMC Logo"
+msgstr "PSMC logó"
 
 msgctxt "#31141"
 msgid "Youtube"

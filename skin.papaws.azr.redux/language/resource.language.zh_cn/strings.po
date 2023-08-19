@@ -566,8 +566,8 @@ msgid "Play trailer in windowed mode"
 msgstr "窗口化播放预告"
 
 msgctxt "#31140"
-msgid "Kodi logo"
-msgstr "KODI徽标"
+msgid "Show PSMC Logo
+msgstr "PSMC徽标"
 
 msgctxt "#31141"
 msgid "Youtube"
