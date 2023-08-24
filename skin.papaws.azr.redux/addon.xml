@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.papaws.azr.redux" version="1.2.4" name="Papaws AZR Redux" provider-name="The Papaw">
+<addon id="skin.papaws.azr.redux" version="1.2.5" name="Papaw's AZR Redux" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skinshortcuts" version="0.4.0"/>
@@ -30,25 +30,25 @@
             <screenshot>resources/screenshot-07.jpg</screenshot>
             <screenshot>resources/screenshot-08.jpg</screenshot>
             <screenshot>resources/screenshot-09.jpg</screenshot>
-            <screenshot>resources/screenshot-10.jpg</screenshot>
+            <screenshot>resources/patreon.jpg</screenshot>
         </assets>
-        <news>1.1.1[CR]- Initial release</news>
-        <summary lang="de">Klar, minimalistisch, elegant, einfach, leicht. Basiert auf dem original Arctic: Zephyr Skin von jurialmunkey.</summary>
-        <summary lang="en">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey.</summary>
-        <summary lang="en_AU">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey.</summary>
-        <summary lang="en_US">Clean, minimal, elegant, simple, light. Based on the original Arctic: Zephyr skin by jurialmunkey.</summary>
-        <summary lang="es">Limpio, minimalista, elegante, simple, ligero. Basado en el original Arctic: Zephyr skin por jurialmunkey.</summary>
-        <summary lang="fr">Clair, minimaliste, élégant, simple et léger. Basé sur le skin original Arctic: Zephyr par jurialmunkey.</summary>
-        <summary lang="fr_CA">Net, minimal, élégant, simple, léger. Basé sur le skin original Arctic: Zephyr par jurialmunkey.</summary>
-        <summary lang="lt">Švari, minimali, elegantiška, paprasta, lengva. Basato sull&apos;originale Arctic: Zephyr skin di jurialmunkey.</summary>
-        <summary lang="nl">Schoon, minimaal, elegant, simpel, licht. Gebaseerd op de originele Arctic: Zephyr skin door jurialmunkey.</summary>
-        <summary lang="pl">Prosta, minimalista, elegancka i lekka. Na podstawie oryginalnego skinu Arctic: Zephyr autorstwa jurialmunkey.</summary>
-        <summary lang="ro">Curat, minimalist, elegant, simplu, ușor. Bazat pe pielea originală Arctic: Zephyr de jurialmunkey.</summary>
-        <summary lang="ru">Опрятный, минималистичный, элегантный, простой, светлый. Основано на оригинальном скине Arctic: Zephyr от jurialmunkey.</summary>
-        <description lang="de">Arctic: Zephyr - Reloaded basiert auf dem original Arctic: Zephyr Skin von jurialmunkey und ist ein minimalistisches, klares und simples Interface für deine Medien mit dem gewissen Etwas.</description>
-        <description lang="en">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
-        <description lang="en_AU">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
-        <description lang="en_US">Arctic: Zephyr - Reloaded is based on original Arctic: Zephyr skin, created by jurialmunkey. Arctic focuses on being simple, clean and minimalistic with a light spin.</description>
-        <description lang="fr">Arctic: Zephyr - Reloaded est basé sur le skin original Arctic: Zephyr, créé par jurialmunkey. Arctic se focalise sur le fait d&apos;être simple, claire et minimaliste.</description>
+        <news>1.2.5[CR]- Minor Fixes</news>
+        <summary lang="de">Overweeg alstublieft om onze inspanningen te ondersteunen met een [B][COLOR deepskyblue]kopje koffie[/COLOR][/B] door de onderstaande QR-code te scannen.</summary>
+        <summary lang="en">Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below.</summary>
+        <summary lang="en_AU">Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below.</summary>
+        <summary lang="en_US">Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below.</summary>
+        <summary lang="es">Considere apoyar nuestros esfuerzos con una [B][COLOR deepskyblue]taza de café[/COLOR][/B] escaneando el código QR a continuación.</summary>
+        <summary lang="fr">Veuillez envisager de soutenir nos efforts avec une [B][COLOR deepskyblue]tasse de café[/COLOR][/B] en scannant le code QR ci-dessous.</summary>
+        <summary lang="fr_CA">Veuillez envisager de soutenir nos efforts avec une [B][COLOR deepskyblue]tasse de café[/COLOR][/B] en scannant le code QR ci-dessous.</summary>
+        <summary lang="lt">Apsvarstykite galimybę paremti mūsų pastangas su [B][COLOR deepskyblue]puodeliu kavos[/COLOR][/B] nuskaitydami toliau pateiktą QR kodą.</summary>
+        <summary lang="nl">Overweeg alstublieft om onze inspanningen te ondersteunen met een [B][COLOR deepskyblue]kopje koffie[/COLOR][/B] door de onderstaande QR-code te scannen.</summary>
+        <summary lang="pl">Prosimy, rozważ wsparcie naszych wysiłków filiżanką [B][COLOR deepskyblue]kawy[/COLOR][/B], skanując poniższy kod QR.</summary>
+        <summary lang="ro">Vă rugăm să luați în considerare sprijinirea eforturilor noastre cu o [B][COLOR deepskyblue]ceașă de cafea[/COLOR][/B] prin scanarea codului QR de mai jos.</summary>
+        <summary lang="ru">Пожалуйста, поддержите наши усилия [B][COLOR deepskyblue]чашкой кофе[/COLOR][/B], отсканировав QR-код ниже.</summary>
+        <description lang="de">Papaw's AZR Redux is gebaseerd op de originele Arctic Zephyr-skin gemaakt door jurialmunkey. De AZR Redux van Papaw is eenvoudig, strak, minimalistisch en uiterst aanpasbaar.[CR][CR]Overweeg alstublieft om onze inspanningen te ondersteunen met een [B][COLOR deepskyblue]kopje koffie[/COLOR][/B] door de QR te scannen code hieronder of ga naar [COLOR deepskyblue]https://bit.ly/44BJaMp[/COLOR]. Bedankt voor uw steun.</description>
+        <description lang="en">Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey. Papaw's AZR Redux is abut being simple, clean, minimalistic and extremely customizable.[CR][CR]Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below or visiting [COLOR deepskyblue]https://bit.ly/44BJaMp[/COLOR]. Thank you for your patronage.</description>
+        <description lang="en_AU">Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey. Papaw's AZR Redux is abut being simple, clean, minimalistic and extremely customizable.[CR][CR]Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below or visiting [COLOR deepskyblue]https://bit.ly/44BJaMp[/COLOR]. Thank you for your patronage.</description>
+        <description lang="en_US">Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey. Papaw's AZR Redux is abut being simple, clean, minimalistic and extremely customizable.[CR][CR]Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below or visiting [COLOR deepskyblue]https://bit.ly/44BJaMp[/COLOR]. Thank you for your patronage.</description>
+        <description lang="fr">L'AZR Redux de Papaw est basé sur le skin original Arctic Zephyr créé par jurialmunkey. AZR Redux de Papaw est simple, propre, minimaliste et extrêmement personnalisable.[CR][CR]Veuillez envisager de soutenir nos efforts avec une [B][COLOR deepskyblue]tasse de café[/COLOR][/B] en scannant le QR code ci-dessous ou en visitant [COLOR deepskyblue]https://bit.ly/44BJaMp[/COLOR]. Merci pour votre parrainage.</description>
     </extension>
 </addon>

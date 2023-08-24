@@ -1,7 +1,7 @@
 # PSMC Media Center language file
 # Addon Name: Papaws AZR Redux
 # Addon id: skin.papaws.azr.redux
-# Addon Provider: jurialmunkey, beatmasterrs, papaw
+# Addon Provider: The Papaw
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -554,7 +554,7 @@ msgid "All colors are reset to their default values"
 msgstr ""
 
 msgctxt "#31137"
-msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]AZR Redux focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
+msgid "[CR]Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey. AZR Redux is abut being simple, clean, minimalistic and extremely customizable. If you have any thoughts on this Skin, let me know at: https://github.com/ThePapaw/psmc-19"
 msgstr ""
 
 msgctxt "#31138"
@@ -566,7 +566,7 @@ msgid "Play trailer in windowed mode"
 msgstr ""
 
 msgctxt "#31140"
-msgid "PSMC Logo"
+msgid "AZR Logo"
 msgstr ""
 
 msgctxt "#31141"
@@ -630,7 +630,7 @@ msgid "Show now playing info"
 msgstr ""
 
 msgctxt "#31156"
-msgid "[COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR] Skin-Settings"
+msgid "[COLOR=$VAR[ColorHighlight]]AZR Redux[/COLOR] Skin-Settings"
 msgstr ""
 
 msgctxt "#31157"
@@ -1174,7 +1174,7 @@ msgid "Channel List"
 msgstr ""
 
 msgctxt "#31293"
-msgid "Reloaded"
+msgid "AZR Redux"
 msgstr ""
 
 msgctxt "#31294"
@@ -2158,7 +2158,7 @@ msgid "Try to lock skin colors/theme/fonts"
 msgstr ""
 
 msgctxt "#31553"
-msgid "Show PF logo in settings"
+msgid "Show AZR Logo in settings"
 msgstr ""
 
 msgctxt "#31554"

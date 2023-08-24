@@ -1,7 +1,7 @@
 # PSMC Media Center language file
 # Addon Name: Papaws AZR Redux
 # Addon id: skin.papaws.azr.redux
-# Addon Provider: jurialmunkey, beatmasterrs, papaw
+# Addon Provider: The Papaw
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -91,7 +91,7 @@ msgstr "Afficher les icônes colorés des indicateurs de médias"
 
 msgctxt "#31018"
 msgid "Papaws AZR Redux"
-msgstr "Arctic : Zephyr - Reloaded"
+msgstr "Arctic : Zephyr - AZR Redux"
 
 msgctxt "#31019"
 msgid "Supported Addons"
@@ -554,8 +554,8 @@ msgid "All colors are reset to their default values"
 msgstr "Toutes les couleurs sont réinitialisées à leurs valeurs par défaut"
 
 msgctxt "#31137"
-msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]AZR Redux focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
-msgstr "[CR]Arctic : Zephyr - Reloaded est basé sur la troisième itération du skin Arctic créé par jurialmunkey. [CR]Arctic se focalise sur le fait d'être simple, claire et minimaliste. [CR]Si vous avez des idées pour ce skin, n'hésitez pas à m'en faire part à l'adresse suivante [CR][CR]https://github.com/ThePapaw/psmc-19"
+msgid "[CR]Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey.  AZR Redux is abut being simple, clean, minimalistic and extremely customizable. If you have any thoughts on this Skin, let me know at: https://github.com/ThePapaw/psmc-19"
+msgstr "[CR]Arctic : Zephyr - AZR Redux est basé sur la troisième itération du skin Arctic créé par jurialmunkey. [CR]Arctic se focalise sur le fait d'être simple, claire et minimaliste. [CR]Si vous avez des idées pour ce skin, n'hésitez pas à m'en faire part à l'adresse suivante [CR][CR]https://github.com/ThePapaw/psmc-19"
 
 msgctxt "#31138"
 msgid "Content Loading"
@@ -566,8 +566,8 @@ msgid "Play trailer in windowed mode"
 msgstr "Afficher la bande-annonce en mode fenêtré"
 
 msgctxt "#31140"
-msgid "PSMC Logo"
-msgstr "Logo PSMC (à gauche du libellé des widgets)"
+msgid "AZR Logo"
+msgstr "Logo AZR (à gauche du libellé des widgets)"
 
 msgctxt "#31141"
 msgid "Youtube"
@@ -630,7 +630,7 @@ msgid "Show now playing info"
 msgstr "Afficher les informations de la lecture en cours"
 
 msgctxt "#31156"
-msgid "[COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR] Skin-Settings"
+msgid "[COLOR=$VAR[ColorHighlight]]AZR Redux[/COLOR] Skin-Settings"
 msgstr "[COLOR=$VAR[ColorHighlight]]Paramètres[/COLOR] skin Arctic: Zephyr"
 
 msgctxt "#31157"
@@ -1174,7 +1174,7 @@ msgid "Channel List"
 msgstr "Liste des chaînes"
 
 msgctxt "#31293"
-msgid "Reloaded"
+msgid "AZR Redux"
 msgstr "Rechargé"
 
 msgctxt "#31294"
@@ -2158,7 +2158,7 @@ msgid "Try to lock skin colors/theme/fonts"
 msgstr "Vérrouiller la personnalisation du skin (couleurs / style / fonts)"
 
 msgctxt "#31553"
-msgid "Show PF logo in settings"
+msgid "Show AZR Logo in settings"
 msgstr "Afficher le logo AZR avec les paramètres du skin"
 
 msgctxt "#31554"

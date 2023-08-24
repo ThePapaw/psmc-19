@@ -1,7 +1,7 @@
 # PSMC Media Center language file
 # Addon Name: Papaws AZR Redux
 # Addon id: skin.papaws.azr.redux
-# Addon Provider: jurialmunkey, beatmasterrs, papaw
+# Addon Provider: The Papaw
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Skins\n"
@@ -554,7 +554,7 @@ msgid "All colors are reset to their default values"
 msgstr "Alle Farben werden auf die Standardwerte zurückgesetzt"
 
 msgctxt "#31137"
-msgid "[CR]Papaws AZR Redux is based on the third iteration of the Arctic skin created by jurialmunkey. [CR]AZR Redux focuses on being simple, clean and minimalistic with a light spin.[CR]If you have any thoughts on this Skin, feel free to let me know at [CR][CR]https://github.com/ThePapaw/psmc-19"
+msgid "[CR]Papaw's AZR Redux is based on the original Arctic Zephyr skin created by jurialmunkey.  AZR Redux is abut being simple, clean, minimalistic and extremely customizable. If you have any thoughts on this Skin, let me know at: https://github.com/ThePapaw/psmc-19"
 msgstr "[CR]Papaws AZR Redux basiert auf der dritten Iteration des Arctic-Skins, kreiert von jurialmunkey. [CR]Arctic fokussiert sich darauf, simpel, clean und minimalistisch zu sein, mit etwas Pepp.[CR]Falls es Rückmeldung zu diesem Skin gibt, kann diese gerne hier hinterlassen werden[CR][CR]https://github.com/ThePapaw/psmc-19"
 
 msgctxt "#31138"
@@ -566,7 +566,7 @@ msgid "Play trailer in windowed mode"
 msgstr "Trailer im Fenstermodus abspielen"
 
 msgctxt "#31140"
-msgid "PSMC Logo"
+msgid "AZR Logo"
 msgstr "PSMC Logo"
 
 msgctxt "#31141"
@@ -630,8 +630,8 @@ msgid "Show now playing info"
 msgstr "Gerade läuft-Informationen anzeigen"
 
 msgctxt "#31156"
-msgid "[COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR] Skin-Settings"
-msgstr "[COLOR=$VAR[ColorHighlight]]Reloaded[/COLOR] Skin-Einstellungen"
+msgid "[COLOR=$VAR[ColorHighlight]]AZR Redux[/COLOR] Skin-Settings"
+msgstr "[COLOR=$VAR[ColorHighlight]]AZR Redux[/COLOR] Skin-Einstellungen"
 
 msgctxt "#31157"
 msgid "Extended info of"
@@ -1174,8 +1174,8 @@ msgid "Channel List"
 msgstr "Kanalliste"
 
 msgctxt "#31293"
-msgid "Reloaded"
-msgstr "Reloaded"
+msgid "AZR Redux"
+msgstr "AZR Redux"
 
 msgctxt "#31294"
 msgid "Side"
@@ -2158,7 +2158,7 @@ msgid "Try to lock skin colors/theme/fonts"
 msgstr "Versuchen, Farben/Thema/Schriftarten des Skins beizubehalten"
 
 msgctxt "#31553"
-msgid "Show PF logo in settings"
+msgid "Show AZR Logo in settings"
 msgstr "AZR-Logo in den Einstellungen anzeigen"
 
 msgctxt "#31554"
