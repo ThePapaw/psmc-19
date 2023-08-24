@@ -566,7 +566,7 @@ msgid "Play trailer in windowed mode"
 msgstr "Reproducir avance en modo de ventana"
 
 msgctxt "#31140"
-msgid "Show PSMC Logo"
+msgid "PSMC Logo"
 msgstr "Logo de PSMC"
 
 msgctxt "#31141"

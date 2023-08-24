@@ -566,7 +566,7 @@ msgid "Play trailer in windowed mode"
 msgstr "Afficher la bande-annonce en mode fenêtré"
 
 msgctxt "#31140"
-msgid "Show PSMC Logo"
+msgid "PSMC Logo"
 msgstr "Logo PSMC (à gauche du libellé des widgets)"
 
 msgctxt "#31141"
