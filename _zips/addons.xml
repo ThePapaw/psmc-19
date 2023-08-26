@@ -219,7 +219,7 @@ provider-name="jurialmunkey">
         </extension>
     </addon>
 
-<addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.3.3" provider-name="The Papaw">
+<addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.3.4" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
