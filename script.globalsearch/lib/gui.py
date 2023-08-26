@@ -1,14 +1,11 @@
 import datetime
 import json
 import operator
-from difflib import SequenceMatcher
-
 from .defs import *
 
-from slyguy import settings
-from slyguy.log import log
-from slyguy.constants import ADDON_ID, ADDON_VERSION
-from slyguy.mem_cache import cached
+def log(txt):
+    message = '%s: %s' % (ADDONID, txt)
+    xbmc.log(msg=message, level=xbmc.LOGDEBUG)
 
 class GUI(xbmcgui.WindowXML):
     def __init__(self, *args, **kwargs):
@@ -18,7 +15,7 @@ class GUI(xbmcgui.WindowXML):
     def onInit(self):
         self.clearList()
         self._hide_controls()
-        log.debug('script version %s started' % ADDON_VERSION)
+        log('script version %s started' % ADDONVERSION)
         self.nextsearch = False
         self.navback = False
         self.history = {}
@@ -53,7 +50,7 @@ class GUI(xbmcgui.WindowXML):
     def _load_settings(self):
         for key, value in CATEGORIES.items():
             if key not in ('albumsongs', 'artistalbums', 'tvshowseasons', 'seasonepisodes', 'actormovies', 'directormovies', 'actortvshows'):
-                CATEGORIES[key]['enabled'] = settings.getBool(key)
+                CATEGORIES[key]['enabled'] = ADDON.getSettingBool(key)
 
     def _get_preferences(self):
         json_query = xbmc.executeJSONRPC('{"jsonrpc": "2.0", "method": "Settings.GetSettingValue", "params":{"setting":"myvideos.selectaction"}, "id": 1}')
@@ -85,13 +82,13 @@ class GUI(xbmcgui.WindowXML):
     def _init_items(self):
         self.Player = MyPlayer()
         self.menu = self.getControl(MENU)
-        self.content = {}
+        self.content = {} 
         self.oldfocus = 0
 
     def _set_view(self):
         # no view will be loaded unless we call SetViewMode, might be a bug...
         xbmc.executebuiltin('Container.SetViewMode(0)')
-        vid = settings.getInt('view')
+        vid = ADDON.getSettingInt('view')
         # kodi bug: need to call Container.SetViewMode twice
         xbmc.executebuiltin('Container.SetViewMode(%i)' % vid)
 
@@ -105,10 +102,6 @@ class GUI(xbmcgui.WindowXML):
         self.history[self.level] = {'cats':cats, 'search':self.searchstring}
         self._check_focus()
 
-    @cached(60*5)
-    def _cached_json_rpc(self, command):
-        return json.loads(xbmc.executeJSONRPC(command))
-
     def _get_items(self, cat, search):
         if cat['content'] == 'livetv':
             self._fetch_channelgroups(cat)
@@ -120,9 +113,8 @@ class GUI(xbmcgui.WindowXML):
             rule = cat['rule'].format(query = search)
         self.getControl(SEARCHCATEGORY).setLabel(xbmc.getLocalizedString(cat['label']))
         self.getControl(SEARCHCATEGORY).setVisible(True)
-
-        #TODO: Pagination for faster more responsive results
-        json_response = self._cached_json_rpc('{"jsonrpc":"2.0", "method":"%s", "params":{"properties":%s, "sort":{"method":"%s"}, %s}, "id": 1}' % (cat['method'], json.dumps(cat['properties']), cat['sort'], rule))
+        json_query = xbmc.executeJSONRPC('{"jsonrpc":"2.0", "method":"%s", "params":{"properties":%s, "sort":{"method":"%s"}, %s}, "id": 1}' % (cat['method'], json.dumps(cat['properties']), cat['sort'], rule))
+        json_response = json.loads(json_query)
         listitems = []
         actors = {}
         directors = {}
@@ -131,16 +123,7 @@ class GUI(xbmcgui.WindowXML):
             listitem.setArt({'icon':'DefaultFolderBack.png'})
             listitems.append(listitem)
         if 'result' in json_response and(json_response['result'] != None) and cat['content'] in json_response['result']:
-            results = json_response['result'][cat['content']]
-            if settings.getBool('smart_search', True) and type(search) == str:
-                results = sorted(results,
-                                 key = lambda x: SequenceMatcher(None,
-                                                    search.lower().strip().replace(' ', ''),
-                                                    x['label'].lower().strip().replace(' ', '')
-                                                ).ratio(),
-                                 reverse = True)
-
-            for item in results:
+            for item in json_response['result'][cat['content']]:
                 if cat['type'] == 'actors' or cat['type'] == 'tvactors':
                     for item in item['cast']:
                         if search.lower() in item['name'].lower():
@@ -223,7 +206,7 @@ class GUI(xbmcgui.WindowXML):
                 numitems = str(len(listitems) - 1)
             else:
                 numitems = str(len(listitems))
-            if cat['type'] != 'actors' and cat['type'] != 'tvactors':
+            if cat['type'] != 'actors' and cat['type'] != 'tvactors': 
                 menuitem = xbmcgui.ListItem(xbmc.getLocalizedString(cat['label']), numitems, offscreen=True)
             else:
                 menuitem = xbmcgui.ListItem(LANGUAGE(cat['label']), numitems, offscreen=True)
@@ -271,7 +254,8 @@ class GUI(xbmcgui.WindowXML):
         self.getControl(SEARCHCATEGORY).setLabel(xbmc.getLocalizedString(19069))
         self.getControl(SEARCHCATEGORY).setVisible(True)
         channelgrouplist = []
-        json_response = self._cached_json_rpc('{"jsonrpc":"2.0", "method":"PVR.GetChannelGroups", "params":{"channeltype":"tv"}, "id":1}')
+        json_query = xbmc.executeJSONRPC('{"jsonrpc":"2.0", "method":"PVR.GetChannelGroups", "params":{"channeltype":"tv"}, "id":1}')
+        json_response = json.loads(json_query)
         if('result' in json_response) and(json_response['result'] != None) and('channelgroups' in json_response['result']):
             for item in json_response['result']['channelgroups']:
                 channelgrouplist.append(item['channelgroupid'])
@@ -282,7 +266,8 @@ class GUI(xbmcgui.WindowXML):
         # get all channel id's
         channellist = []
         for channelgroupid in channelgrouplist:
-            json_response = self._cached_json_rpc('{"jsonrpc":"2.0", "method":"PVR.GetChannels", "params":{"channelgroupid":%i, "properties":["channel", "thumbnail"]}, "id":1}' % channelgroupid)
+            json_query = xbmc.executeJSONRPC('{"jsonrpc":"2.0", "method":"PVR.GetChannels", "params":{"channelgroupid":%i, "properties":["channel", "thumbnail"]}, "id":1}' % channelgroupid)
+            json_response = json.loads(json_query)
             if('result' in json_response) and(json_response['result'] != None) and('channels' in json_response['result']):
                 for item in json_response['result']['channels']:
                     channellist.append(item)
@@ -300,7 +285,8 @@ class GUI(xbmcgui.WindowXML):
             channelid = channel['channelid']
             channelname = channel['label']
             channelthumb = channel['thumbnail']
-            json_response = self._cached_json_rpc('{"jsonrpc":"2.0", "method":"PVR.GetBroadcasts", "params":{"channelid":%i, "properties":["starttime", "endtime", "runtime", "genre", "plot"]}, "id":1}' % channelid)
+            json_query = xbmc.executeJSONRPC('{"jsonrpc":"2.0", "method":"PVR.GetBroadcasts", "params":{"channelid":%i, "properties":["starttime", "endtime", "runtime", "genre", "plot"]}, "id":1}' % channelid)
+            json_response = json.loads(json_query)
             if('result' in json_response) and(json_response['result'] != None) and('broadcasts' in json_response['result']):
                 for item in json_response['result']['broadcasts']:
                     broadcastname = item['label']
@@ -519,6 +505,12 @@ class GUI(xbmcgui.WindowXML):
         if self.focusset == 'false':
             self.getControl(NORESULTS).setVisible(True)
             self.setFocus(self.getControl(SEARCHBUTTON))
+            dialog = xbmcgui.Dialog()
+            ret = dialog.yesno(xbmc.getLocalizedString(284), LANGUAGE(32298))
+            if ret:
+                self._new_search()
+            else:
+                self._close()
 
     def _context_menu(self, controlId, listitem):
         labels = ()
@@ -637,13 +629,14 @@ class GUI(xbmcgui.WindowXML):
         self.navback = False
 
     def _new_search(self):
-        self.searchstring = search()
-        if self.searchstring:
+        keyboard = xbmc.Keyboard('', LANGUAGE(32101), False)
+        keyboard.doModal()
+        if(keyboard.isConfirmed()):
+            self.searchstring = keyboard.getText()
             self.menu.reset()
             self.oldfocus = 0
             self.clearList()
             self.onInit()
-        return self.searchstring
 
     def onClick(self, controlId):
         if controlId == self.getCurrentContainerId():
@@ -666,9 +659,7 @@ class GUI(xbmcgui.WindowXML):
                 movieid = listitem.getVideoInfoTag().getDbId()
                 self._play_item('movieid', movieid, listitem)
             elif media == 'tvshow':
-                dbid = listitem.getVideoInfoTag().getDbId()
-                path = "videodb://tvshows/titles/%s/" % dbid
-                xbmc.executebuiltin('ReplaceWindow(Videos,{},return)'.format(path))
+                self._get_allitems('tvshowseasons', listitem)
             elif media == 'season':
                 self._get_allitems('seasonepisodes', listitem)
             elif media == 'episode':
@@ -702,16 +693,8 @@ class GUI(xbmcgui.WindowXML):
             self._new_search()
 
     def onAction(self, action):
-        if action.getId() in ACTION_EXIT:
+        if action.getId() in ACTION_CANCEL_DIALOG:
             self._close()
-
-        elif action.getId() in ACTION_BACK:
-            if self.level <= 1:
-                self._close()
-            else:
-                self.level -= 1
-                self._nav_back()
-
         elif action.getId() in ACTION_CONTEXT_MENU or action.getId() in ACTION_SHOW_INFO:
             controlId = self.getFocusId()
             if controlId == self.getCurrentContainerId():
@@ -726,7 +709,6 @@ class GUI(xbmcgui.WindowXML):
                         media = listitem.getMusicInfoTag().getMediaType()
                     if media != '' and media != 'season':
                         self._show_info(listitem)
-
         elif self.getFocusId() == MENU and action.getId() in (1, 2, 3, 4, 107):
             item = self.menu.getSelectedItem().getProperty('type')
             content = self.menu.getSelectedItem().getProperty('content')
@@ -739,10 +721,10 @@ class GUI(xbmcgui.WindowXML):
                 self.oldfocus = item
 
     def _close(self):
-        settings.setInt('view', self.getCurrentContainerId())
+        ADDON.setSettingInt('view', self.getCurrentContainerId())
         xbmcgui.Window(self.window_id).clearProperty('GlobalSearch.SearchString')
         self.close()
-        log.debug('script stopped')
+        log('script stopped')
 
 
 class MyPlayer(xbmc.Player):
@@ -753,36 +735,3 @@ class MyPlayer(xbmc.Player):
     def onAVStarted(self):
         if self.resume > 0:
             self.seekTime(float(self.resume))
-
-def search():
-    searches = settings.getJSON('searches', [])
-
-    history_length = settings.getInt('history_length', 10)
-    searches = searches[:history_length]
-
-    searchstring = ''
-    if searches:
-        options = [u'[B]{}[/B]'.format(LANGUAGE(32299))]
-        options.extend(searches)
-        index = xbmcgui.Dialog().select(xbmc.getLocalizedString(137), options)
-        if index == -1:
-            return False
-
-        if index > 0:
-            searchstring = options[index]
-
-    if not searchstring:
-        keyboard = xbmc.Keyboard('', LANGUAGE(32101), False)
-        keyboard.doModal()
-        if (keyboard.isConfirmed()):
-            searchstring = keyboard.getText()
-
-    if not searchstring:
-        return False
-
-    if searchstring in searches:
-        searches.remove(searchstring)
-
-    searches.insert(0, searchstring)
-    settings.setJSON('searches', searches)
-    return searchstring

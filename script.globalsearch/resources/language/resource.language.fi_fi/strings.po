@@ -25,57 +25,57 @@ msgctxt "Addon Description"
 msgid "This addon can find any item in your video and music library."
 msgstr "Tämä lisäosalla löydät minkä tahansa video- ja musiikkikirjastosi kohteen."
 
-msgctxt "#30012"
+msgctxt "#32000"
 msgid "General"
 msgstr "Yleiset"
 
-msgctxt "#30001"
+msgctxt "#32001"
 msgid "Search Movies"
 msgstr "Etsi elokuvia"
 
-msgctxt "#30002"
+msgctxt "#32002"
 msgid "Search TV Shows"
 msgstr "Etsi sarjoja"
 
-msgctxt "#30003"
+msgctxt "#32003"
 msgid "Search Episodes"
 msgstr "Etsi jaksoja"
 
-msgctxt "#30007"
+msgctxt "#32004"
 msgid "Search Music Videos"
 msgstr "Etsi musiikkivideoita"
 
-msgctxt "#30009"
+msgctxt "#32005"
 msgid "Search Artists"
 msgstr "Etsi esittäjiä"
 
-msgctxt "#30010"
+msgctxt "#32006"
 msgid "Search Albums"
 msgstr "Etsi albumeita"
 
-msgctxt "#30011"
+msgctxt "#32007"
 msgid "Search Songs"
 msgstr "Etsi kappaleita"
 
 # empty string with id 32008
-msgctxt "#30008"
+msgctxt "#32009"
 msgid "Search Live TV"
 msgstr "Etsi televisiolähetyksiä ohjelmappaasta"
 
 # empty string with id 32010
-msgctxt "#30004"
+msgctxt "#32011"
 msgid "Search Movie Actors"
 msgstr "Etsi elokuvien näyttelijöitä"
 
-msgctxt "#30005"
+msgctxt "#32012"
 msgid "Search Movie Directors"
 msgstr "Etsi elokuvaohjaajia"
 
-msgctxt "#30006"
+msgctxt "#32013"
 msgid "Search TV Show Actors"
 msgstr "Etsi sarjojen näyttelijöitä"
 
-# empty strings from id 30005 to 32100
+# empty strings from id 32012 to 32100
 msgctxt "#32101"
 msgid "Enter search string"
 msgstr "Syötä hakulauseke"

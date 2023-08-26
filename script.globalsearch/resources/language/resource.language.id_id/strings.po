@@ -25,57 +25,57 @@ msgctxt "Addon Description"
 msgid "This addon can find any item in your video and music library."
 msgstr "Pengaya ini dapat mencari item apa saja di pustaka video dan musik anda."
 
-msgctxt "#30012"
+msgctxt "#32000"
 msgid "General"
 msgstr "Umum"
 
-msgctxt "#30001"
+msgctxt "#32001"
 msgid "Search Movies"
 msgstr "Cari Film"
 
-msgctxt "#30002"
+msgctxt "#32002"
 msgid "Search TV Shows"
 msgstr "Cari Acara TV"
 
-msgctxt "#30003"
+msgctxt "#32003"
 msgid "Search Episodes"
 msgstr "Cari Episode"
 
-msgctxt "#30007"
+msgctxt "#32004"
 msgid "Search Music Videos"
 msgstr "Cari Musik Video"
 
-msgctxt "#30009"
+msgctxt "#32005"
 msgid "Search Artists"
 msgstr "Cari Artis"
 
-msgctxt "#30010"
+msgctxt "#32006"
 msgid "Search Albums"
 msgstr "Cari Album"
 
-msgctxt "#30011"
+msgctxt "#32007"
 msgid "Search Songs"
 msgstr "Cari Lagu"
 
 # empty string with id 32008
-msgctxt "#30008"
+msgctxt "#32009"
 msgid "Search Live TV"
 msgstr "Cari Siaran TV"
 
 # empty string with id 32010
-msgctxt "#30004"
+msgctxt "#32011"
 msgid "Search Movie Actors"
 msgstr "Cari Aktor Film"
 
-msgctxt "#30005"
+msgctxt "#32012"
 msgid "Search Movie Directors"
 msgstr "Cari Sutradara Film"
 
-msgctxt "#30006"
+msgctxt "#32013"
 msgid "Search TV Show Actors"
 msgstr "Cari Aktor Acara TV"
 
-# empty strings from id 30005 to 32100
+# empty strings from id 32012 to 32100
 msgctxt "#32101"
 msgid "Enter search string"
 msgstr "Masukkan Pencarian"
