@@ -495,6 +495,28 @@ v0.2.0 - v0.2.3 (2022-03-14)
     </extension>
 </addon>
 
+<addon id="script.globalsearch" name="Global Search+" provider-name="SlyGuy" version="99.0.6">
+	<requires>
+    	<import addon="script.module.slyguy" version="0.63.1"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<description lang="en">This addon can find any item in your video and music library.
+
+A fork of ronie's Global Search with search history and smarter result ordering
+
+Drop-in replacement as uses the same addon id and much higher version number to stop overwrite by original
+</description>
+		<platform>all</platform>
+		<license></license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news></news>
+	</extension>
+</addon>
+
 <addon id="script.module.fuzzybritchesv3scrapers" version="1.0.8" name="[COLOR crimson]â€¢ [/COLOR]Fuzzy Britches v3 Scrapers[COLOR crimson] â€¢[/COLOR]" provider-name="The Papaw">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
