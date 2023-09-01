@@ -65,7 +65,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.rdtools" version="1.0.5" name="Real-Debrid Tools" provider-name="The Papaw">
+<addon id="plugin.video.rdtools" version="1.0.6" name="Real-Debrid Tools" provider-name="The Papaw">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.beautifulsoup4" />
@@ -1310,7 +1310,7 @@ Version 1.0.37
     </extension>
 </addon>
 
-<addon id="skin.papaws.azr.redux" version="1.2.7" name="Papaw's AZR Redux" provider-name="The Papaw">
+<addon id="skin.papaws.azr.redux" version="1.2.8" name="Papaw's AZR Redux" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skinshortcuts" version="2.0.3"/>
