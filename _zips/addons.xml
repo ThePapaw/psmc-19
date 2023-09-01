@@ -1310,7 +1310,7 @@ Version 1.0.37
     </extension>
 </addon>
 
-<addon id="skin.papaws.azr.redux" version="1.2.8" name="Papaw's AZR Redux" provider-name="The Papaw">
+<addon id="skin.papaws.azr.redux" version="1.2.9" name="Papaw's AZR Redux" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
         <import addon="script.skinshortcuts" version="2.0.3"/>
@@ -1341,9 +1341,9 @@ Version 1.0.37
             <screenshot>resources/screenshot-07.jpg</screenshot>
             <screenshot>resources/screenshot-08.jpg</screenshot>
             <screenshot>resources/screenshot-09.jpg</screenshot>
-            <screenshot>resources/patreon.jpg</screenshot>
+            <screenshot>resources/bmc_qr.jpg</screenshot>
         </assets>
-        <news>1.2.5[CR]- Minor Fixes</news>
+        <news>1.2.9[CR]- Added Support QR Code</news>
         <summary lang="de">Overweeg alstublieft om onze inspanningen te ondersteunen met een [B][COLOR deepskyblue]kopje koffie[/COLOR][/B] door de onderstaande QR-code te scannen.</summary>
         <summary lang="en">Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below.</summary>
         <summary lang="en_AU">Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code below.</summary>
