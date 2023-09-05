@@ -219,7 +219,7 @@ provider-name="jurialmunkey">
         </extension>
     </addon>
 
-<addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.3.9" provider-name="The Papaw">
+<addon id="repository.psmc-19" name="PSMC-19 Repository" version="1.4.0" provider-name="The Papaw">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
@@ -233,7 +233,7 @@ provider-name="jurialmunkey">
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>The Official Repo for PSMC-19 (Papaw's Son Media Center)</summary>
-        <description>This is the "Official" repository for PSMC-19 (Papaw's Son Media Center). PSMC-19 is a fork of Kodi.[CR]- [COLOR orange]Please consider supporting our efforts with a [B][COLOR deepskyblue]cup of coffee[/COLOR][/B] by scanning the QR code![/COLOR]</description>
+        <description>This is the "Official" repository for PSMC-19 (Papaw's Son Media Center). PSMC-19 is a fork of Kodi.[CR]- [COLOR orange]Be sure to check out all the addons in the PSMC-19 Collection![/COLOR]</description>
         <platform>all</platform>
 		<license>CC BY-NC-SA 4.0</license>
 		<forum></forum>
@@ -244,8 +244,6 @@ provider-name="jurialmunkey">
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-			<screenshot>resources/patreon.jpg</screenshot>
 		</assets>
 		<news>[COLOR yellow]Initial Release[/COLOR]</news>
     </extension>
