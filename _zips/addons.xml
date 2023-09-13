@@ -1551,7 +1551,7 @@ Version 1.0.37
 	</extension>
 </addon>
 
-<addon id="skin.psmc.super.mario.galaxy" version="1.1.19" name="PSMC's Super Mario Skin" provider-name="The Papaw">
+<addon id="skin.psmc.super.mario.galaxy" version="1.2.0" name="PSMC's Super Mario Skin" provider-name="The Papaw">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.17" />
@@ -1589,7 +1589,7 @@ Version 1.0.37
 	</extension>
 </addon>
 
-<addon id="skin.psmc.toystory" version="1.1.19" name="PSMC's Toy Story" provider-name="The Papaw">
+<addon id="skin.psmc.toystory" version="1.2.0" name="PSMC's Toy Story" provider-name="The Papaw">
 	<requires>
 		<import addon="xbmc.gui" version="5.15.0" />
 		<import addon="script.skinshortcuts" version="1.0.17" />
