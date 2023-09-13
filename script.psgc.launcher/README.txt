@@ -1,13 +1,13 @@
 LaunchBox Launcher - Start LaunchBox Big Box Mode from within PSMC
 
 Question and support available here. 
-https://github.com/ThePapaw/psmc-19
+https://github.com/ThePapaw/psmc-20
 
 This plugin requires a premium license for LaunchBox to allow access to BigBox.
 https://www.launchbox-app.com/big-box
 
 This plugin requires PSMC Media Center for Windows as it is a WINDOWS ONLY script.
-https://github.com/ThePapaw/psmc-19
+https://github.com/ThePapaw/psmc-20
 
 Fanart created by The Papaw:
 
